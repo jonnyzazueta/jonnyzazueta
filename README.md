@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jonny, an aspiring <a href="https://www.linkedin.com/jonathan-zazueta-">IT Professional
+<h1>Hi, I'm Jonny, an aspiring <a href="https://www.linkedin.com/in/jonathan-zazueta-5132aa285">IT Professional
 
 <h2> Information Technology Projects:</h2>
 
