@@ -8,3 +8,4 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/jonnyzazueta/ticket-lifecycle)
 
 - <b>Microsoft Azure</b>
+  - [Microsoft Azure: Virtual Machine Setup](https://github.com/jonnyzazueta/virtualmachine)
