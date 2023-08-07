@@ -7,3 +7,4 @@
   - [osTicket: Post-Installation Configuration](https://github.com/jonnyzazueta/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/jonnyzazueta/ticket-lifecycle)
 
+- <b>Microsoft Azure</b>
